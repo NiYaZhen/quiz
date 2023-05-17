@@ -5,7 +5,7 @@
 
 使用方法：<br>
 在命令列的地方輸入：<b>go run main.go data.csv </b>
-![](quiz-2/img/2.png)<br>
+![image](img/2.png)<br>
   
 如未輸入檔案名稱，會產生提示：<br>
-![](quiz-2/img/1.png)
+![image](img/1.png)
