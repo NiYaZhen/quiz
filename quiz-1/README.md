@@ -2,17 +2,17 @@
 使用技術：Golang、MongoDB、Docker<br>
 1.先下載檔案下來後，在命令列輸入<b>「docker-compose up」</b><br>
 啟動API服務容器以及MongoDB容器 <br>
-![image](quiz-1/comment/img/1.png)
+![image](comment/img/1.png)
 
 2.看到服務啟動成功，此時我們目前API啟動服務位址是
 http://localhost:8080 <br>
-![image](quiz-1/comment/img/2.png)
+![image](comment/img/2.png)
 
 3.使用MongoDB資料庫 <br>
 可以先在網路下載MongoDB Compass GUI https://www.mongodb.com/try/download/compass
 
 4.MongoDB的連線位址 <b>「mongodb://localhost:27017/」</b><br>
-![image](quiz-1/comment/img/3.png)
+![image](comment/img/3.png)
 
 5.此時可以使用API服務，去建立comment 資料 <br>
 此專案中的api：<br>
@@ -34,4 +34,4 @@ http://localhost:8080 <br>
 6.成功新增一筆資料後，可以前往剛剛的MongoDB Compass GUI 刷新，查看 mydb資料庫中的comment<br>
 裡面就會顯示剛剛新增的資料<br>
 
-![image](quiz-1/comment/img/4.png)
+![image](comment/img/4.png)
