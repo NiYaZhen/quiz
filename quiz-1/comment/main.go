@@ -8,7 +8,9 @@ import (
 )
 
 func init() {
+	// 讀取env檔案
 	db.LoadTheEnv()
+	// 創建資料庫實例
 	db.CreateDBInstance()
 }
 
