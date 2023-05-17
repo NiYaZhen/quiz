@@ -1,4 +1,4 @@
-# chatGPT-LineBot
+# quiz-1
 使用技術：Golang、MongoDB、Docker<br>
 1.先下載檔案下來後，在命令列輸入<b>「docker-compose up」</b><br>
 啟動API服務容器以及MongoDB容器 <br>
